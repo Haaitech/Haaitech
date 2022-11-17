@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Tom</h1>
 <h3 align="left">A Flutter mobile developer</h3>
 
-- 🌱 I’m currently learning **Flutter, Appwrite**
+- 🌱 I’m currently learning: **Flutter and Appwrite**
 
-- 👨‍💻 All of my projects are available at [tom-haaima.nl](tom-haaima.nl)
+- 👨‍💻 All of my projects are available at: [tom-haaima.nl](tom-haaima.nl)
 
-- 📫 How to reach me **code@tom-haaima.nl**
+- 📫 How to reach me: **code@tom-haaima.nl**
 
-- ⚡ Fun fact **I'am also an audio engineer**
+- ⚡ Fun fact: **I'am also an audio engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
