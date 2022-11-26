@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **Flutter and Appwrite**
 
-- 👨‍💻 All of my projects are available at: [tom-haaima.nl](tom-haaima.nl)
+- 👨‍💻 All of my projects are available at: [tom-haaima.nl](https://tom-haaima.nl/)
 
 - 📫 How to reach me: **code@tom-haaima.nl**
 
